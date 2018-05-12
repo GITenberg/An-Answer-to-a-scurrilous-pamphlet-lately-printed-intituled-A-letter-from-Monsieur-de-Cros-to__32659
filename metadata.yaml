@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '35715'
     url: http://www.gutenberg.org/2009/agents/35715
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32659#An-Answer-to-a-scurrilous-pamphlet-lately-printed-intituled-A-letter-from-Monsieur-de-Cros-to_
 gutenberg_issued: '2010-06-02'
 gutenberg_type: Text
 identifiers:
