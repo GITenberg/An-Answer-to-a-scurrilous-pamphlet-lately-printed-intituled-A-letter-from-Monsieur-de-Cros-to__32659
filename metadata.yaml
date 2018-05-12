@@ -1,0 +1,31 @@
+_repo: An-Answer-to-a-scurrilous-pamphlet-lately-printed-intituled-A-letter-from-Monsieur-de-Cros-to__32659
+_version: 0.1.0
+alternative_title: An Answer to a Scurrilous Pamphlet [1693]
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Temple, William
+    alias: Temple, William, Sir
+    birthdate: 1628
+    deathdate: 1699
+    gutenberg_agent_id: '35715'
+    url: http://www.gutenberg.org/2009/agents/35715
+description: ''
+gutenberg_issued: '2010-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32659'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Du Cros, Simon, active 17th century. Lettre de Monsieur Du Cros à Mylord
+  **** afin de servir de réponse aux impostures de Monsieur le chevalier Temple'
+- !lcc 'D'
+- !lcsh 'Europe -- History -- 1648-1715'
+title: An Answer to a scurrilous pamphlet, lately printed, intituled, A letter from
+  Monsieur de Cros, to the Lord ----
+url: http://www.gutenberg.org/ebooks/32659
